@@ -2,10 +2,12 @@
 
 body {
     font-family: Helvetica;
+    background-color:  #82A9A2;
+    margin: auto;
 }
 
 header {
-    background: rgb(216, 80, 80);
+    background: #516965;
     height: 100px;
 }
 
@@ -94,6 +96,6 @@ button:hover {
 
 footer {
     clear: both;
-    background: #444;
+    background: #516965;
     height: 150px;
 }
