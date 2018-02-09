@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background: #444;
+    background: rgb(216, 80, 80);
     height: 100px;
 }
 
@@ -28,7 +28,7 @@ header ul li {
 
 a {
     text-decoration: none;
-    color: #888;
+    color: rgb(255, 255, 255);
 }
 
 /* MAIN - SUB BANNERS */
