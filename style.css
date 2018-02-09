@@ -2,10 +2,12 @@
 
 body {
     font-family: Helvetica;
+    background-color:  rgb(175, 206, 200);
+    margin: auto;
 }
 
 header {
-    background: #444;
+    background: #516965;
     height: 100px;
 }
 
@@ -28,7 +30,7 @@ header ul li {
 
 a {
     text-decoration: none;
-    color: #888;
+    color: rgb(255, 255, 255);
 }
 
 /* MAIN - SUB BANNERS */
@@ -66,6 +68,11 @@ h2 {
     margin-bottom: 10px;
 }
 
+section div {
+    background-color: rgb(205, 211, 210);
+}
+
+
 section div p {
     height: 320px;
     overflow: auto;
@@ -94,6 +101,6 @@ button:hover {
 
 footer {
     clear: both;
-    background: #444;
+    background: #516965;
     height: 150px;
 }
